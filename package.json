@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "i": "^0.3.7",
+    "json": "^11.0.0",
+    "json-server": "^0.17.3"
+  },
+  "name": "codeChallengeTwo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mwasigwa2/CodeChallengeTwo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mwasigwa2/CodeChallengeTwo/issues"
+  },
+  "homepage": "https://github.com/Mwasigwa2/CodeChallengeTwo#readme"
+}
